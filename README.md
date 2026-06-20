@@ -41,9 +41,7 @@ _Add a screenshot of the application here_
 
 ## 🚀 Live Demo
 
-Experience the trivia live: [QuizMaster Demo](https://tarekhamdy99.github.io/QuizMaster/)
-
----
+## Experience the trivia live: [QuizMaster Demo](https://tarekhamdy99.github.io/Quiz-Master/)
 
 ## 📂 Project Structure
 
