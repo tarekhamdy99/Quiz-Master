@@ -7,7 +7,7 @@
 
 **QuizMaster** is an engaging and interactive web-based trivia application built using Object-Oriented Programming (OOP) principles in Vanilla JavaScript. The application dynamically fetches real-time, diverse questions from the global Open Trivia DB API to deliver an exciting gaming experience, complete with a countdown round timer, a persistent local leaderboard, and a robust keyboard-supported error handling system.
 
-![QuizMaster Screenshot](https://raw.githubusercontent.com/tarekhamdy99/QuizMaster/main/images/Page-Image.png)
+![QuizMaster Screenshot](images/Page-Image.png)
 _Add a screenshot of the application here_
 
 ---
