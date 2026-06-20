@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/tarekhamdy99/QuizMaster)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tarekhamdy99/QuizMaster)
 ![GitHub language count](https://img.shields.io/github/languages/count/tarekhamdy99/QuizMaster)
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-purple)](https://tarekhamdy99.github.io/QuizMaster/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-purple)]([https://tarekhamdy99.github.io/QuizMaster/](https://tarekhamdy99.github.io/Quiz-Master/))
 
 **QuizMaster** is an engaging and interactive web-based trivia application built using Object-Oriented Programming (OOP) principles in Vanilla JavaScript. The application dynamically fetches real-time, diverse questions from the global Open Trivia DB API to deliver an exciting gaming experience, complete with a countdown round timer, a persistent local leaderboard, and a robust keyboard-supported error handling system.
 
